@@ -1,8 +1,8 @@
 class Dnsnap < Formula
   desc "Version control for public DNS records you need to keep"
   homepage "https://github.com/igorasantos/dnsnap"
-  url "https://github.com/igorasantos/dnsnap/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "56785d54e3e1fb317d35411d2c983e6b3a8e67362c27d5bc44c00d47ce17f574"
+  url "https://github.com/igorasantos/dnsnap/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "196e6d6813075c427d30d7dc0421ab8ab32f13ffe3d6d9f61bc7e02401d5459b"
   license "MIT"
 
   depends_on "bash"
